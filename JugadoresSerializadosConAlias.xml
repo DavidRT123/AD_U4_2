@@ -1,0 +1,44 @@
+<?xml version="1.0"?><Jugadores>
+  <Jugador nacionalidad="ES">
+    <nombre>zeta89</nombre>
+    <puntuacion>50</puntuacion>
+    <nivel>5</nivel>
+    <horas>22</horas>
+  </Jugador>
+  <Jugador nacionalidad="US">
+    <nombre>crocodile_fire</nombre>
+    <puntuacion>140</puntuacion>
+    <nivel>14</nivel>
+    <horas>12</horas>
+  </Jugador>
+  <Jugador nacionalidad="CO">
+    <nombre>donChepe</nombre>
+    <puntuacion>200</puntuacion>
+    <nivel>20</nivel>
+    <horas>11</horas>
+  </Jugador>
+  <Jugador nacionalidad="IT">
+    <nombre>CappiDiTuttoCappi</nombre>
+    <puntuacion>130</puntuacion>
+    <nivel>13</nivel>
+    <horas>4</horas>
+  </Jugador>
+  <Jugador nacionalidad="US">
+    <nombre>Xalerox</nombre>
+    <puntuacion>220</puntuacion>
+    <nivel>22</nivel>
+    <horas>34</horas>
+  </Jugador>
+  <Jugador nacionalidad="ES">
+    <nombre>davidRT</nombre>
+    <puntuacion>1000</puntuacion>
+    <nivel>100</nivel>
+    <horas>10</horas>
+  </Jugador>
+  <Jugador nacionalidad="ES">
+    <nombre>joe</nombre>
+    <puntuacion>10</puntuacion>
+    <nivel>10</nivel>
+    <horas>10</horas>
+  </Jugador>
+</Jugadores>
